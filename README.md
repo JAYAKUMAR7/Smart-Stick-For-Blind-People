@@ -2,6 +2,7 @@
 Helping aid for blind people which helps them via object detection, GPS tracking and messaging the location using GSM to the guardian.
 
 Modules used:
+
           -> Ultrasonic sensor for object detection.
           -> GPS neo-6m Module for location tracking.
           -> GSM SIM800L Module for messaging the location to the guardian.
